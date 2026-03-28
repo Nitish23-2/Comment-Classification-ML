@@ -1,9 +1,6 @@
-# Comment-Classification-ML
-Multi-class comment classification.
+# Comment Category Prediction (Multi-Class | Kaggle Project)
 
-# 🧠 Comment Category Prediction (Multi-Class NLP | Kaggle Project)
-
-## 📌 Overview
+## Overview
 This project focuses on solving a **multi-class text classification problem** where the goal is to predict how an online platform categorizes user-generated comments.
 
 The dataset combines **textual, numerical, categorical, and temporal features**, making it a real-world structured + unstructured ML problem.
@@ -21,7 +18,7 @@ The dataset combines **textual, numerical, categorical, and temporal features**,
 
 ### ⚠️ Challenges
 - Class imbalance across categories
-- High missing values in categorical columns
+- High missing values in categorical columns (~74% data missing)
 - High-dimensional sparse text features
 - Mixed data types (structured + unstructured)
 
