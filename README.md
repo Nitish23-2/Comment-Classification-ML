@@ -80,17 +80,9 @@ The dataset combines **textual, numerical, categorical, and temporal features**,
 ### 5️⃣ Models Implemented
 
 #### ✅ Linear Models
-- Logistic Regression  
-- Linear SVM  
-
 #### 🌲 Tree-Based Models
-- XGBoost  
-- LightGBM  
-
 #### 🧠 Neural Network
-- MLPClassifier  
 
----
 
 ### 6️⃣ Model Optimization
 - Hyperparameter tuning (manual + randomized)
